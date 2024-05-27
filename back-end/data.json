@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "name": "ABC Mart",
+    "location": "123 Main Street",
+    "products": [
+      {
+        "id": 101,
+        "name": "Shoes",
+        "price": 50
+      },
+      {
+        "id": 102,
+        "name": "Shirts",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "XYZ Store",
+    "location": "456 Elm Street",
+    "products": [
+      {
+        "id": 201,
+        "name": "Pants",
+        "price": 30
+      },
+      {
+        "id": 202,
+        "name": "Hats",
+        "price": 15
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "ABC Mart",
+    "location": "123 Main Street",
+    "products": [
+      {
+        "id": 101,
+        "name": "Shoes",
+        "price": 50
+      },
+      {
+        "id": 102,
+        "name": "Shirts",
+        "price": 20
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ABC Mart",
+    "location": "123 Main Street",
+    "products": [
+      {
+        "id": 101,
+        "name": "Shoes",
+        "price": 50
+      },
+      {
+        "id": 102,
+        "name": "Shirts",
+        "price": 20
+      }
+    ]
+  }
+]
